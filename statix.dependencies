@@ -4,8 +4,8 @@
     "target_path": "device/google/raviole"
   },
   {
-    "repository": "sourajitk/vendor_google_oriole",
+    "repository": "vendor_google_oriole",
     "target_path": "vendor/google/oriole",
-    "remote": "statix-git"
+    "remote": "stx-git"
   }
 ]
